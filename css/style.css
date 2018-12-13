@@ -22,7 +22,7 @@ body {
   color: white;
   transition: background 1s;
   background-position: 50% 50%;
-
+  background-image: url("../img/loop4.png");
   background-position: 0% 0%;
   animation: bgmove 120s linear infinite;
   background-attachment: fixed;
